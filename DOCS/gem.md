@@ -35,8 +35,6 @@ Before we dive into the details, here is the high-level flow of how an LLM proje
 | **Description**    | This is the "shopping" phase. You decide whether to use a proprietary model (like GPT-4) or an open-source model (like Llama 3 or Mistral). This decision dictates your cost, privacy, and performance ceiling. |
 | **Key Activities** | • Defining use-cases (e.g., chat, summary, coding).<br>                                                                                                                                                         |
 
-<br>• Comparing benchmarks (MMLU, HumanEval).<br>
-
 <br>• Checking licensing (Commercial vs. Research only).<br>
 
 <br>• Estimating costs (Token pricing vs. GPU rental). |
